@@ -1,0 +1,32 @@
+{
+	"myfamily":[
+{"nama":"molyono",
+"umur":48,
+"pekerjaan":"wiraswasta",
+"isOnlineWorkingOrStudying":false,
+"status":"ayah",
+"hobi":["mengkoleksi barang antik",
+"melukis"]},
+{"nama":"rifatul hasanah",
+"umur":42,
+"pekerjaan":"ibu rumah tangga",
+"isOnlineWorkingOrStudying":false,
+"status":"ibu",
+"hobi":["membaca",
+"memasak"]},
+{"nama":"wildan maulidi molyono",
+"umur":21,
+"pekerjaan":"mahasiswa",
+"isOnlineWorkingorStudying":true,
+"status":"anak pertama",
+"hobi":["membaca",
+"menulis cerita"]},
+{"nama":"ummu fahmida ikromiya",
+"umur":6,
+"pekerjaan":"pelajar",
+"isOnlineWorkingOrStudying":false,
+"status":"anak kedua",
+"hobi":["menggambar",
+"bermain"]}
+	]
+}
